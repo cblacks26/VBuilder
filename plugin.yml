@@ -1,0 +1,8 @@
+name: VBuilder
+main: com.github.vbuilder.Main
+version: 1.0
+author: cblacks26
+commands:
+  VB:
+    description: Gives the tool need to make a build
+    usage: /VB type [smallhouse]
